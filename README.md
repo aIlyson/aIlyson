@@ -8,17 +8,6 @@ Atualmente eu sou estudante em período semi-integral em Game Design enquanto te
 - Blender;
 - HTML5/CSS3;
 
-   <p>
-  My Anime List:<p></p>
-    <div class="characters">
-      <img src="https://cdn.myanimelist.net/images/characters/8/444198.jpg" width="72" height="108" alt="" />
-      <img src="https://cdn.myanimelist.net/images/characters/7/461218.jpg" width="72" height="108" alt="" />
-      <img src="https://cdn.myanimelist.net/images/characters/6/328151.jpg" width="72" height="108" alt="" />
-      <img src="https://cdn.myanimelist.net/images/characters/5/486674.jpg" width="72" height="108" alt="" />
-      <img src="https://cdn.myanimelist.net/images/characters/7/318163.jpg" width="72" height="108" alt="" />
-    </div>
-       </p>
- 
   ##
   
 *Colors:*<p></p>
