@@ -4,11 +4,10 @@ Atualmente eu sou estudante em período semi-integral, sou desenvolvedor indie e
 
 **Hobbies:**
 - HTML5/CSS3;
-- RPG Maker MV/VX;
-- Unity;
-- Unreal Engine
-- Gamer Maker;
 - Blender;
+- Unity;
+- Unreal Engine;
+- - RPG Maker.
 
   ##
   
