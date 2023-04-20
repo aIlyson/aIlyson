@@ -3,10 +3,10 @@ Atualmente eu sou estudante em período semi-integral em Game Design enquanto te
 
 
 **Hobbies:**
+- HTML5/CSS3;
 - RPG Maker MV/VX;
 - Gamer Maker;
 - Blender;
-- HTML5/CSS3;
 
   ##
   
@@ -20,9 +20,6 @@ Atualmente eu sou estudante em período semi-integral em Game Design enquanto te
 - ![#fff](https://placehold.co/15x15/fff/fff.png) `--bs-white`
 - ![#6c757d](https://placehold.co/15x15/6c757d/6c757d.png) `--bs-gray`
 - ![#343a40](https://placehold.co/15x15/343a40/343a40.png) `--bs-gray-dark`
-- ![#212529](https://placehold.co/15x15/212529/212529.png) `--bs-success`
-- ![#0dcaf0](https://placehold.co/15x15/0dcaf0/0dcaf0.png) `--bs-info`
-- ![#ffc107](https://placehold.co/15x15/ffc107/ffc107.png) `--bs-warning`
 - ![#dc3545](https://placehold.co/15x15/dc3545/dc3545.png) `--bs-danger`
 - ![#f8f9fa](https://placehold.co/15x15/f8f9fa/f8f9fa.png) `--bs-light`
 - ![#212529](https://placehold.co/15x15/212529/212529.png) `--bs-dark`
