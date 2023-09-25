@@ -6,7 +6,6 @@ Atualmente eu sou estudante em período semi-integral, sou desenvolvedor indie e
 - HTML5/CSS3;
 - Blender;
 - Unity;
-- Unreal Engine;
 - - RPG Maker.
 
   ##
