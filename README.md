@@ -1,5 +1,5 @@
 ### 
-Sou Alysson, um estudante que atualmente concilia meu tempo entre as aulas e codificação como desenvolvedor indie durante meu horário livre. Geralmente, pratico desenvolvimento Front-End com JavaScript, utilizando frameworks como React, React Native, Angular e Vue.js
+Sou Alysson, um estudante que atualmente concilia meu tempo entre as aulas e codificação como desenvolvedor indie durante meu horário livre. Geralmente, pratico desenvolvimento Front-End com JavaScript e React, utilizando frameworks como React Native, Angular e Vue.js
 
 **Hobbies:**
 
@@ -44,13 +44,16 @@ Sou Alysson, um estudante que atualmente concilia meu tempo entre as aulas e cod
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   </a>
-
-  <a href="https://www.ruby-lang.org/">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby">
-  </a>
   <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
   </a>
+  
+  <a href="https://www.ruby-lang.org/">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby">
+  </a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Py">
+</a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   </a>
