@@ -2,8 +2,8 @@
 
 <p align="center">
 
-👩🏻‍💻 Currently, I am just studying Web development with JavaScript and React. Currently involved in an extension project through IFSertãoPE.
-❤ Studying new different technologies
+- 👩🏻‍💻 Currently, I am just studying Web development with JavaScript and React. Currently involved in an extension project through IFSertãoPE.
+- ❤ Studying new different technologies
 
 <div align="center">
   <a href = "mailto:alyssonmichel20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -14,9 +14,8 @@
 #### &nbsp;Coding  ####
 
 <div style="display: flex; align-items: center;">
-    <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en" alt="ailyson" />
-    </p>
-    <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en&layout=compact" alt="ailyson" /></p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en" alt="ailyson" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en&layout=compact" alt="ailyson" />
 </div>
 
 ---
