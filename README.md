@@ -14,8 +14,8 @@
 #### &nbsp;Coding  ####
 
 <div style="display: flex; align-items: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en" alt="ailyson" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en&layout=compact" alt="ailyson" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en&include_all_commits=true" alt="Allyson" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailyson&show_icons=true&theme=dark&title_color=d4af37&text_color=d4af37&bg_color=0d1117&locale=en&layout=compact" alt="Allyson" />
 </div>
 
 ---
