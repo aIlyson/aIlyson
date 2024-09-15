@@ -3,7 +3,7 @@
 <p align="center">
 
 - 👩🏻‍💻 Currently, I am just studying Web development with JavaScript and React. Currently involved in an extension project through IFSertãoPE.
-- ❤ Studying new different technologies
+- 🎓 I'm 18 years old and I'm studying Information Systems at UFPI.
 
 <div align="center">
   <a href = "mailto:alyssonmichel20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
