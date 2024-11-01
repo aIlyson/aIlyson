@@ -9,7 +9,7 @@
         <li><strong>Name:</strong> Alysson Michel</li>
         <li><strong>Education:</strong> Web developer and Information Systems</li>
         <li>👨🏻‍💻 Currently learning Web Development with a focus on JavaScript and React, while contributing to a research project at IFSertãoPE.</li>
-        <li>Building applications with <strong>React</strong></li>
+        <li>💻 Building applications with <strong>React</strong></li>
       </ul>
       <h4><ins>Coding:</ins></h4>
       <p>
@@ -22,7 +22,7 @@
         <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
         <img align="center" alt="Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
       </p>
-      <div align="center">
+      <div align="center" style="margin-top: 20px;>
         <a href="mailto:alyssonmichel20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/alysson-michel-50a227273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="https://discordapp.com/users/1138351681902493756" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
