@@ -34,13 +34,13 @@
       </div>
     </td>
     <td>
-      <img src="images/pinimg.jpg" alt="images" max-width: 400px;">
+      <img src="images/pinimg.jpg" alt="images" width: 250px;">
     </td>
   </tr>
 </table>
 
 <div align="center" style="margin-top: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&title_color=923331&icon_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&include_all_commits=true" alt="Alysson's GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&title_color=923331&icon_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&include_all_commits=true" alt="Alysson's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailyson&show_icons=true&title_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="Most Used Languages"/>
 </div>
 <div align="center" style="margin-top: 10px;">
