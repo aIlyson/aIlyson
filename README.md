@@ -5,18 +5,16 @@
 <table>
   <tr>
     <td>
-
-<ul>
-  <li><strong>Name:</strong> Alysson Michel</li>
-  <li><strong>Education:</strong> Software Developer and Information Systems</li>
-  <li><strong>Web Development</strong> with focus on 
-    <span style="background-color: #fbecec; padding: 2px 6px; border-radius: 4px; color: #923331;">JavaScript</span> and
-    <span style="background-color: #fbecec; padding: 2px 6px; border-radius: 4px; color: #923331;">TypeScript</span>
-  </li>
-  <li>Contributing to research at <strong>IFSertãoPE</strong></li>
-</ul>
-
-<h4 style="color: #923331;"><ins>Coding:</ins></h4>
+      <ul>
+        <li><strong>Name:</strong> Alysson Michel</li>
+        <li><strong>Education:</strong> Software Developer and Information Systems</li>
+        <li><strong>Web Development</strong> with focus on 
+          <span style="background-color: #fbecec; padding: 2px 6px; border-radius: 4px; color: #923331;">JavaScript</span> and
+          <span style="background-color: #fbecec; padding: 2px 6px; border-radius: 4px; color: #923331;">TypeScript</span>
+        </li>
+        <li>Contributing to research at <strong>IFSertãoPE</strong></li>
+      </ul>
+      <h4><ins>Coding:</ins></h4>
 <p align="left" style="margin: 0; padding: 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" title="javaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="typeScript" />
@@ -30,23 +28,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28" title="kotlin" />
 </p>
-<div align="left" style="margin-top: 20px;">
-  <a href="mailto:alyssonmichel20@gmail.com"><img src="https://img.shields.io/badge/Gmail-923331?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alysson-michel-50a227273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-923331?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/1138351681902493756" target="_blank"><img src="https://img.shields.io/badge/Discord-923331?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
+    <div align="left" style="margin-top: 20px;">
+        <a href="mailto:alyssonmichel20@gmail.com"><img src="https://img.shields.io/badge/Gmail-923331?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/alysson-michel-50a227273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-923331?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://discordapp.com/users/1138351681902493756" target="_blank"><img src="https://img.shields.io/badge/Discord-923331?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+      </div>
     </td>
-    <td valign="middle">
-      <img src="images/pinimg.jpg" width="360" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(146, 51, 49, 0.15);" alt="Pixel Art">
+    <td>
+      <img src="images/pinimg.jpg" width="250" alt="images">
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&title_color=923331&icon_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&include_all_commits=true" alt="Alysson's GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailyson&layout=compact&hide_border=true&title_color=923331&text_color=ffffff&bg_color=0d1117" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&title_color=923331&icon_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&include_all_commits=true" alt="Alysson's GitHub Stats"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailyson&layout=compact&hide_border=true&title_color=923331&text_color=ffffff&bg_color=0d1117" />
 </div>
-
 <div align="center" style="margin-top: 10px;">
   <img src="images/kyubey.gif" width="80" alt="Coding GIF">
   <p style="font-size: 12px; color: #888;">Code. Fall. Repeat. 🍁</p>
