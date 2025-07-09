@@ -37,8 +37,8 @@
 </table>
 
 <div align="center" style="margin-top: 20px;">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&hide_border=true&title_color=923331&icon_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&include_all_commits=true" alt="Alysson's GitHub Stats"/>
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailyson&show_icons=true&hide_border=true&title_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailyson&show_icons=true&title_color=923331&icon_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&include_all_commits=true" alt="Alysson's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailyson&show_icons=true&title_color=923331&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="Most Used Languages"/>
 </div>
 <div align="center" style="margin-top: 10px;">
   <img src="images/kyubey.gif" width="80" alt="Coding GIF">
