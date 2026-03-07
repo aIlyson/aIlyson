@@ -1,5 +1,5 @@
 <h2 align="left">🍂 Hi, Alysson here.</h2>
----
+
 <table>
   <tr>
     <td>
@@ -38,5 +38,5 @@
 
 <div align="center" style="margin-top: 10px;">
   <img src="images/kyubey.gif" width="80" alt="Coding GIF">
-  <p style="font-size: 12px; color: #888;">Code. Lead. Repeat. 🍁</p>
+  <p style="font-size: 12px; color: #888;">Code. Fall. Repeat. 🍁</p>
 </div>
