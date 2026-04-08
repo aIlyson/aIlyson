@@ -1,41 +1,29 @@
-<h2 align="left">🍂 Hi, Allyson here.</h2>
-
----
-
 <table>
   <tr>
-    <td>
-      <ul>
-        <li><strong>Name:</strong> Alysson Michel</li>
-        <li><strong>Education:</strong> Software Developer and Information Systems</li>
-        <li>Currently learning Web Development with a focus on JavaScript and React, while contributing to a research project at IFSertãoPE.</li>
-      </ul>
-      <h4>
-      <ins>Coding:</ins></h4>
-<p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" title="javaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="typeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" title="vue.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" title="next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" title="node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" title="express" />
-      <img src="https://nestjs.com/img/logo-small.svg" width="28" style="background-color: white; border-radius: 50%;" title="nestJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" title="java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="28" title="prisma" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" title="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28" title="kotlin" />
-    </p>    <div align="left" style="margin-top: 20px;">
-        <a href="mailto:alyssonmichel20@gmail.com"><img src="https://img.shields.io/badge/Gmail-923331?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/alysson-michel-50a227273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-923331?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href="https://discordapp.com/users/1138351681902493756" target="_blank"><img src="https://img.shields.io/badge/Discord-923331?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-      </div>
+    <td align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E2C2C&random=false&width=400&height=40&lines=Hi%2C+Alysson+here!" alt="Typing SVG" />
+      <a href="https://git.io/typing-svg">
+      </a>
+      <br/>
+      <img src="/images/pinimg.jpeg" alt="Pin Image" width="350" />
     </td>
-    <td>
-      <img src="images/pinimg.jpg" width="400" alt="images">
+    <td valign="top">
+      <p><b>about me:</b><br>
+    <ul>
+      <li><b>education:</b> information systems student at UFPI</li>
+      <li><b>research:</b> extension project member at IF Sertão-PE</li>
+       <li><b>current role:</b> full-stack developer & director of technology at <a href="https://www.juasolucoes.com.br/" target="_blank">JUA</a></li>
+    </ul>
+      <b>langs && frameworks:</b><br>
+      ▸ typescript, flutter, vue, node.
+      <br><br>
+           <img src="https://www.allysonms.tech/icon.png" width="40" height="40"/> <a href="https://www.allysonms.tech/"> My website </a>
+      </p>
     </td>
   </tr>
 </table>
+
 <div align="center" style="margin-top: 10px;">
   <img src="images/kyubey.gif" width="80" alt="Coding GIF">
-  <p style="font-size: 12px; color: #888;">Code. Fall. Repeat. 🍁</p>
+  <p style="font-size: 12px; color: #888;">Code. Repeat.</p>
 </div>
