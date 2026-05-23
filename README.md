@@ -3,7 +3,7 @@
     <td align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7E2C2C&random=false&width=350&height=50&lines=Hi%2C+Alysson+here!" alt="Typing SVG" />
       <br/>
-      <img src="https://i.imgur.com/jkxN22T.gif" width="350" />
+      <img src="https://i.imgur.com/jkxN22T.gif" width="250" />
     </td>
     <td valign="top">
       <p><b>about me:</b><br>
