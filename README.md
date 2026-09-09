@@ -16,7 +16,7 @@
       <b>langs && frameworks:</b><br>
       <code>▸ typescript</code> &bull; <code>react</code> &bull; <code>vue</code> &bull; <code>node</code>
       <br><br>
-      <img src="https://www.allysonms.tech/icon.png" width="40" height="40"/> <a href="https://www.allysonms.tech/"> My website </a>
+      <img src="https://www.alyssonms.dev/icon.png" width="40" height="40"/> <a href="https://www.alyssonms.dev/"> My website </a>
       </p>
     </td>
   </tr>
